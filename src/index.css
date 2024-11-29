@@ -1,0 +1,26 @@
+* {
+    font-family: Helvetica;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #000;
+  --secondary-color: #fff;
+}
+
+body {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+a {
+    text-decoration: none;
+    color: #f7d354;
+    transition: .5s;
+}
+
+a:hover {
+    color: #b8930c;
+}
