@@ -1,4 +1,4 @@
-# movies-lib-react-api
+# movies-lib-react-with-api
 
 Projeto que eu desenvolvi através do canal [Matheus Battisti - Hora de Codar](https://www.youtube.com/@MatheusBattisti) no Youtube.
 
